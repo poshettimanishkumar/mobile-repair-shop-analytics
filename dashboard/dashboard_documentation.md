@@ -1,14 +1,17 @@
 # Dashboard Documentation
 
 ## Dashboard Pages
-- Overview
+- Overview Dashboard
 - Profit Analysis
 - Repair Performance
 - Customer Analysis
 
-## KPIs
+## KPI Measures
 - Total Repairs
 - Total Profit
 - Average Repair Cost
-- Customer Rating
-- Repair Time
+- Average Customer Rating
+- Average Repair Time
+
+## Purpose
+This dashboard helps monitor repair shop performance, profitability, customer satisfaction, and operational efficiency.
