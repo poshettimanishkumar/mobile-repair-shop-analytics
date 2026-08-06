@@ -1,12 +1,11 @@
--- Create Database
--- CREATE DATABASE mobile_repair_shop;
+-- Day 20 SQL File
+-- Purpose: Basic queries for Mobile Repair Shop Analytics
 
--- Select Database
 USE mobile_repair_shop;
 
 -- Display all records
 SELECT * FROM mobile_repairs;
 
--- Total Repairs
+-- Total repairs
 SELECT COUNT(*) AS Total_Repairs
 FROM mobile_repairs;
