@@ -1,5 +1,5 @@
 # Day 20 Python File
-# Purpose: Basic analysis of the Mobile Repair Shop dataset.
+# Purpose: Basic analysis of Mobile Repair Shop dataset
 
 import pandas as pd
 
@@ -9,5 +9,5 @@ df = pd.read_csv("Mobile_Repair_Shop_Synthetic_Dataset_20000.csv")
 # Display first five rows
 print(df.head())
 
-# Total number of repairs
+# Total repairs
 print("Total Repairs:", len(df))
